@@ -1,0 +1,8 @@
+VITE_BACKEND_URL="http://localhost:4000"
+MONGODB_URI="mongodb+srv://mohitmittal:mohit123@cluster0.k64xcpl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+CLOUDINARY_NAME="dkstdbkke"
+CLOUDINARY_API_KEY="475356713677226"
+CLOUDINARY_SECRET_KEY="BwNAS0drl18abqzKvIsEGRfU_bQ"
+JWT_SECRET="greatstack"
+ADMIN_EMAIL="admin@prescripto.com"
+ADMIN_PASSWORD="qwerty123"
