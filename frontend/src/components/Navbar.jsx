@@ -3,6 +3,7 @@ import { assets } from '../assets/assets'
 import { NavLink, useNavigate } from 'react-router-dom'
 import { Flag } from 'lucide-react';
 import { AppContext } from '../context/AppContext';
+import { Sun, Moon } from "lucide-react";
 
 const Navbar = () => {
     const navigate=useNavigate();
